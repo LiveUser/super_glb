@@ -1,5 +1,5 @@
 name: super_glb
-description: A sample command-line application.
+description: A dart glb manipulation software. Entirely developed by Copilot.
 version: 1.0.0
 repository: https://github.com/LiveUser/super_glb
 
