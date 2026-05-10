@@ -7,6 +7,7 @@ void main() {
     rotateGlb(
       glbFile, -90, 0, 0
     );
-    await saveGlb(glbFile, "C:\\Users\\valen\\Downloads\\compressed\\8.0007.3j_low_poly_rotated.glb");
+    await optimizeGlb(glbFile, 5);
+    await saveGlb(glbFile, "C:\\Users\\valen\\Downloads\\compressed\\8.0007.3j_low_poly_rotated_and_optimized.glb");
   });
 }
