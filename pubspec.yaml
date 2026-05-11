@@ -1,6 +1,6 @@
 name: super_glb
 description: A dart glb manipulation software. Entirely developed by Copilot.
-version: 1.0.4
+version: 1.0.5
 repository: https://github.com/LiveUser/super_glb
 
 environment:
